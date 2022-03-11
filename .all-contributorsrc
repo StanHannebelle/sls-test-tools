@@ -1,4 +1,3 @@
-
 {
   "files": [
     "README.md"
@@ -26,7 +25,7 @@
       "profile": "https://github.com/hamilton-s",
       "contributions": [
         "code",
-        "doc",
+        "doc"
       ]
     },
     {
@@ -35,7 +34,25 @@
       "avatar_url": "https://avatars.githubusercontent.com/agwhi",
       "profile": "https://github.com/agwhi",
       "contributions": [
-        "code",
+        "code"
+      ]
+    },
+    {
+      "login": "stanhannebelle",
+      "name": "Stan Hannebelle",
+      "avatar_url": "https://avatars.githubusercontent.com/stanhannebelle",
+      "profile": "https://github.com/stanhannebelle",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "valentinbeggi",
+      "name": "Valentin Beggi",
+      "avatar_url": "https://avatars.githubusercontent.com/valentinbeggi",
+      "profile": "https://github.com/valentinbeggi",
+      "contributions": [
+        "code"
       ]
     }
   ],
